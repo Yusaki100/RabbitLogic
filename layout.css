@@ -78,3 +78,6 @@ overflow: hidden;
 a:visited{
   color: #ff9999;
 }
+a:link{
+  color: #9999ff;
+}
