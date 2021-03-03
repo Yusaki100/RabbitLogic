@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../layout2.css">
+<link rel="icon" href="../../pic/favicon.ico ">
+<title>Rabbit Logic*</title>
+</head>
+<body>
+
+<div id="header">
+  <a href="../../index.html"><img src="../../pic/header.png" alt="トップ"></a>
+  </div>
+  
+  <div id ="container">
+<div id="content">
+<div id="main">
+<h2>◆キャラクター紹介</h2>
+キャラクターの紹介をするページです。<br>
+<h3>リニアちゃん(L5DZ17型)</h3><br><br>
+
+本名、というか型番はL5DZ17型。通称リニア。<br>
+はかせからはリニアちゃんと呼ばれている。<br>
+ロボットの女の子で、お手伝いロボットとして開発された。現在機能調整中。<br>
+雪かきや料理等のお手伝いをしている。<br>
+
+<h3>はかせ(L5DZ17型)</h3><br><br>
+
+紫色の髪をした女の人。この人がリニアちゃんをつくった。<br>
+他にも、道具改良システムや雪かきポイント変換システムも開発した。<br>
+リニアちゃんの調整が完璧にできたら市販しようと考えている。<br>
+
+<br>
+  
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</div>
+  
+  <div id="side">
+<ul class="mainmenu" id="mainmenu1">
+<a href="qa1.html"><img src="qa.png"></a><br>
+<a href="chara1.html"><img src="chara.png"></a><br>
+<a href="sozai.html"><img src="sozai.png"></a><br>
+  </ul>
+  </div>
+
+</div>
+</div>
+
+<div id="footer">
+  <p>Copyright © 2021 幽崎百景 All Rights Reserved.</p>
+  </div>
+</div>
+</body>
+</html>
